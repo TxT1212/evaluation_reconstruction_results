@@ -1,0 +1,12 @@
+%YAML:1.0
+
+K_rgb: !!opencv-matrix
+    rows: 3
+    cols: 3
+    dt: d
+    data: [976.761670, 0, 1024.149174, 0, 975.702239,  776.218530, 0, 0, 1]
+
+image_rgb: "/media/txt/data1/data/cafe9/out/Depth/depth_400000.png"
+image_depth: "/media/txt/data1/data/cafe9/out/Depth/depth_400000.png""
+
+ply_name: "/media/txt/data1/data/cafe9/out/Depth/depth_400000.png"
